@@ -14,7 +14,6 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"oTransition","path":"objects/oTransition/oTransition.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":956.0,"y":190.0,"resourceVersion":"1.0","name":"inst_C0D0B6D","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oLevelEnd","path":"objects/oLevelEnd/oLevelEnd.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":2016.0,"y":592.0,"resourceVersion":"1.0","name":"inst_2DCF82A3","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Transition","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Bullets","tags":[],"resourceType":"GMRInstanceLayer",},
@@ -332,7 +331,6 @@
     {"name":"inst_140BEC17","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_49D96E90","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_58D149F6","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_C0D0B6D","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_2DCF82A3","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_54D42411","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_7C3CE135","path":"rooms/Room1/Room1.yy",},
